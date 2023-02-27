@@ -4,3 +4,6 @@ This code is a tangents method that is used to determine the tariff prices of el
 
 ![tangets2](https://user-images.githubusercontent.com/97995445/221586862-f763aff6-5a78-402e-bc77-00d8406dc933.png)
 ![tangets3](https://user-images.githubusercontent.com/97995445/221586887-1747a62f-0746-433c-9539-9ffd905ee9ec.png)
+
+
+###This code was developed in collaboration with the engineer Jonathan Layedra whom I thank.##
